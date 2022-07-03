@@ -1,4 +1,4 @@
-### Hi, Iám Demin 👋
+### Hi, I'm Demin 👋
 
 <!--
 **deminsantana/deminsantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 DEMIN SANTANA
 software engineer
 
-🌱 I’m currently learning stack MERN actually.
+🌱 I’m currently learning stack MERN from freecodecamp.org
 
 
