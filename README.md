@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 DEMIN SANTANA
 software engineer
 
-🌱 I’m currently learning stack MERN from freecodecamp.org
+🌱 I’m currently use Node.js and React.js
 
 
