@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 DEMIN SANTANA
 software engineer
 
-🌱 I’m currently use Node.js and React.js
+🌱 I’m currently use Go and Dart Flutter
+Other languaje and technologies: Node.js / React.js / Ruby on Rails / Java
 
 
