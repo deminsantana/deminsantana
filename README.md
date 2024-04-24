@@ -19,6 +19,7 @@ DEMIN SANTANA
 software engineer
 
 🌱 I’m currently use Go and Dart Flutter
+
 Other languaje and technologies: Node.js / React.js / Ruby on Rails / Java
 
 
