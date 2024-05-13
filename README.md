@@ -1,5 +1,3 @@
-###  Hi, I'm Demin 👋💻⌨️ 
-
 <h1 align="center"> Hi, I'm Demin 👋💻⌨️ </h1>
 <h1 align="center"> I'm a passionate Software Engineer </br> (Frontend & Backend Developer) </br> from Maracaibo, Venezuela. </h1>
 
@@ -11,6 +9,7 @@
 
 
 <!--
+###  Hi, I'm Demin 👋💻⌨️ 
 **deminsantana/deminsantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
