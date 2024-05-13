@@ -5,9 +5,9 @@
 
 🌱 I’m currently use Go and Dart Flutter
 
-<p><strong>Lenguajes:</strong> GO | Dart | HTML | CSS | Javascript Typescript Ajax jQuery | PHP | RUBY | JAVA </p></br>
-<p><strong>Frontend Development:</strong> Flutter | ReactJS | Bootstrap | Tailwind CSS </p></br>
-<p><strong>Backend Development:</strong> GO | Ruby on Rails | JavaSEE | Node.js con ExpressJS | MySQL PostgreSQL | MongoDB </p></br>
+<p><strong>Lenguajes:</strong> GO | Dart | HTML | CSS | Javascript Typescript Ajax jQuery | PHP | RUBY | JAVA </p>
+<p><strong>Frontend Development:</strong> Flutter | ReactJS | Bootstrap | Tailwind CSS </p>
+<p><strong>Backend Development:</strong> GO | Ruby on Rails | JavaSEE | Node.js con ExpressJS | MySQL PostgreSQL | MongoDB </p>
 
 
 <!--
